@@ -1,6 +1,6 @@
 from msilib.schema import CheckBox
 import customtkinter as cust
-##MUDANDO A APARENCIA DA JANELA - DEIXANDO ELA DARK
+##MUDANDO A APARENCIA DA JANELA -  DARK
 cust.set_appearance_mode("Dark") 
 ###COR BOTÃO DE LOGIN  (TEMA)
 cust.set_default_color_theme("green")
